@@ -1,0 +1,13 @@
+C:\Users\Artem\Desktop\video\chart guna\ChartGunaApp\ChartGunaApp\bin\Debug\ChartGunaApp.exe.config
+C:\Users\Artem\Desktop\video\chart guna\ChartGunaApp\ChartGunaApp\bin\Debug\ChartGunaApp.exe
+C:\Users\Artem\Desktop\video\chart guna\ChartGunaApp\ChartGunaApp\bin\Debug\ChartGunaApp.pdb
+C:\Users\Artem\Desktop\video\chart guna\ChartGunaApp\ChartGunaApp\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\Artem\Desktop\video\chart guna\ChartGunaApp\ChartGunaApp\obj\Debug\ChartGunaApp.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\video\chart guna\ChartGunaApp\ChartGunaApp\obj\Debug\ChartGunaApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\Desktop\video\chart guna\ChartGunaApp\ChartGunaApp\obj\Debug\ChartGunaApp.Form1.resources
+C:\Users\Artem\Desktop\video\chart guna\ChartGunaApp\ChartGunaApp\obj\Debug\ChartGunaApp.Properties.Resources.resources
+C:\Users\Artem\Desktop\video\chart guna\ChartGunaApp\ChartGunaApp\obj\Debug\ChartGunaApp.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\video\chart guna\ChartGunaApp\ChartGunaApp\obj\Debug\ChartGunaApp.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\video\chart guna\ChartGunaApp\ChartGunaApp\obj\Debug\ChartGunaApp.csproj.CopyComplete
+C:\Users\Artem\Desktop\video\chart guna\ChartGunaApp\ChartGunaApp\obj\Debug\ChartGunaApp.exe
+C:\Users\Artem\Desktop\video\chart guna\ChartGunaApp\ChartGunaApp\obj\Debug\ChartGunaApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\Artem\Desktop\video\image\AppImg\AppImg\bin\Debug\AppImg.exe.config
+C:\Users\Artem\Desktop\video\image\AppImg\AppImg\bin\Debug\AppImg.exe
+C:\Users\Artem\Desktop\video\image\AppImg\AppImg\bin\Debug\AppImg.pdb
+C:\Users\Artem\Desktop\video\image\AppImg\AppImg\obj\Debug\AppImg.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\video\image\AppImg\AppImg\obj\Debug\AppImg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\Desktop\video\image\AppImg\AppImg\obj\Debug\AppImg.Form1.resources
+C:\Users\Artem\Desktop\video\image\AppImg\AppImg\obj\Debug\AppImg.Properties.Resources.resources
+C:\Users\Artem\Desktop\video\image\AppImg\AppImg\obj\Debug\AppImg.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\video\image\AppImg\AppImg\obj\Debug\AppImg.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\video\image\AppImg\AppImg\obj\Debug\AppImg.exe
+C:\Users\Artem\Desktop\video\image\AppImg\AppImg\obj\Debug\AppImg.pdb

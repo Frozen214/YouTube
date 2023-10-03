@@ -17,7 +17,7 @@
                 {
                     mailMessage.From = new MailAddress(smtpUsername);
                     mailMessage.To.Add(""); // Укажите адрес получателя
-                    mailMessage.Subject = "Данные от входа в ИС мероприятий";
+                    mailMessage.Subject = "Заголовок сообщения (тема)";
                     mailMessage.Body = $"Текст сообщения";
 
                     try

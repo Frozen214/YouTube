@@ -1,0 +1,13 @@
+C:\Users\Artem\Desktop\Роли\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Artem\Desktop\Роли\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Artem\Desktop\Роли\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Artem\Desktop\Роли\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Artem\Desktop\Роли\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Artem\Desktop\Роли\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormLogin.resources
+C:\Users\Artem\Desktop\Роли\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Artem\Desktop\Роли\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Artem\Desktop\Роли\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Artem\Desktop\Роли\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Artem\Desktop\Роли\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Artem\Desktop\Роли\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Artem\Desktop\Роли\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMain.resources

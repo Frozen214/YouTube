@@ -1,0 +1,12 @@
+D:\Артема\YT\xml\xml\xml\bin\Debug\xml.exe.config
+D:\Артема\YT\xml\xml\xml\bin\Debug\xml.exe
+D:\Артема\YT\xml\xml\xml\bin\Debug\xml.pdb
+D:\Артема\YT\xml\xml\xml\bin\Debug\Guna.UI2.dll
+D:\Артема\YT\xml\xml\xml\obj\Debug\xml.csproj.AssemblyReference.cache
+D:\Артема\YT\xml\xml\xml\obj\Debug\xml.Properties.Resources.resources
+D:\Артема\YT\xml\xml\xml\obj\Debug\xml.csproj.GenerateResource.cache
+D:\Артема\YT\xml\xml\xml\obj\Debug\xml.csproj.CoreCompileInputs.cache
+D:\Артема\YT\xml\xml\xml\obj\Debug\xml.csproj.CopyComplete
+D:\Артема\YT\xml\xml\xml\obj\Debug\xml.exe
+D:\Артема\YT\xml\xml\xml\obj\Debug\xml.pdb
+D:\Артема\YT\xml\xml\xml\obj\Debug\xml.FormExampleXML.resources

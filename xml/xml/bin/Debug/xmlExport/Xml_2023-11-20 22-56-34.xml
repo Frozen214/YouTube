@@ -1,0 +1,20 @@
+<qwe>
+  <example>
+    <IdProduct>4234</IdProduct>
+    <Product>Молоко</Product>
+    <Price>70</Price>
+  </example>
+  <example>
+    <IdProduct>1314</IdProduct>
+    <Product>Печенье</Product>
+    <Price>60</Price>
+  </example>
+  <example>
+    <IdProduct>1984</IdProduct>
+      <eeq>
+      <qee>eeq</qee>
+      </eeq>
+    <Product>Хлеб</Product>
+    <Price>40</Price>
+  </example>
+  </qwe>

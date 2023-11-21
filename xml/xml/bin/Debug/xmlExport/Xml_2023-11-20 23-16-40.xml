@@ -1,0 +1,17 @@
+<Data>
+  <Row>
+    <IdProduct>4234</IdProduct>
+    <Product>Молоко</Product>
+    <Price>70</Price>
+  </Row>
+  <Row>
+    <IdProduct>1314</IdProduct>
+    <Product>Печенье</Product>
+    <Price>60</Price>
+  </Row>
+  <Row>
+    <IdProduct>1984</IdProduct>
+    <Product>Хлеб</Product>
+    <Price>40</Price>
+  </Row>
+</Data>

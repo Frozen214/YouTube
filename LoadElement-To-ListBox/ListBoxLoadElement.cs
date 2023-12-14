@@ -14,7 +14,7 @@ namespace WindowsFormsApp1
         
         public string StringConn = @"Data Source=USER-PC\sqlexpress;Initial Catalog=Eroshkin;Integrated Security=True";
 
-        //старый способ. плохой способ
+        #region старый способ. плохой способ
 
         //вызов
         private void button1_Click(object sender, EventArgs e)
@@ -45,6 +45,7 @@ namespace WindowsFormsApp1
             }
             return columnValues;
         }
+        #endregion
 
         //новый способ. Хороший способ
          public bool FillComboBox(string query, string nameColumn, ComboBox comboBox)

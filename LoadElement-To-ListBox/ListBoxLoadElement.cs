@@ -11,11 +11,12 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
-        private string stringCon()
-        {
-            return @"Data Source=user-pc\sqlexpress;Initial Catalog=JmutovDB;Integrated Security=True";
-        }
+        
+        public string StringConn = @"Data Source=USER-PC\sqlexpress;Initial Catalog=Eroshkin;Integrated Security=True";
 
+        //старый способ. плохой способ
+
+        //вызов
         private void button1_Click(object sender, EventArgs e)
         {
             var queryListCodeRequest = "SELECT * FROM Пользователи";
@@ -30,7 +31,7 @@ namespace WindowsFormsApp1
         {
             List<string> columnValues = new List<string>();
 
-            SqlConnection myCon = new SqlConnection(stringCon());
+            SqlConnection myCon = new SqlConnection(StringConn);
             myCon.Open();
             using (SqlCommand command = new SqlCommand(query, myCon))
             {
@@ -43,6 +44,48 @@ namespace WindowsFormsApp1
                 }
             }
             return columnValues;
+        }
+
+        //новый способ. Хороший способ
+         public bool FillComboBox(string query, string nameColumn, ComboBox comboBox)
+         {
+             try
+             {
+                 using (SqlConnection connection = new SqlConnection(StringConn))
+                 {
+                     connection.Open();
+
+                     using (SqlCommand command = new SqlCommand(query, connection))
+                     {
+                         using (SqlDataReader reader = command.ExecuteReader())
+                         {
+                             while (reader.Read())
+                             {
+                                 if (!reader.IsDBNull(reader.GetOrdinal(nameColumn)))
+                                 {
+                                     comboBox.Items.Add(reader[nameColumn].ToString());
+                                 }
+                             }
+                         }
+                     }
+                 }
+                 return true;
+             }
+             catch (SqlException ex)
+             {
+                 MessageBox.Show($"Ошибка SQL при заполнении {comboBox}:\r\n {ex.Message}", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+             }
+             catch (Exception ex)
+             {
+                 MessageBox.Show($"Ошибка при заполнении {comboBox}:\r\n {ex.Message}", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+             }
+             return false;
+         } 
+
+        //вызов
+        private void button1_Click(object sender, EventArgs e)
+        {
+          FillComboBox("select * from товары", "Стоимость товара", comboBox1);
         }
     }
 }

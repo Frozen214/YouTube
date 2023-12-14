@@ -1,0 +1,12 @@
+D:\Артема\YT\Экспорт Word DGV\MyApp\MyApp\bin\Debug\MyApp.exe.config
+D:\Артема\YT\Экспорт Word DGV\MyApp\MyApp\bin\Debug\MyApp.exe
+D:\Артема\YT\Экспорт Word DGV\MyApp\MyApp\bin\Debug\MyApp.pdb
+D:\Артема\YT\Экспорт Word DGV\MyApp\MyApp\bin\Debug\Guna.UI2.dll
+D:\Артема\YT\Экспорт Word DGV\MyApp\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+D:\Артема\YT\Экспорт Word DGV\MyApp\MyApp\obj\Debug\MyApp.Form1.resources
+D:\Артема\YT\Экспорт Word DGV\MyApp\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+D:\Артема\YT\Экспорт Word DGV\MyApp\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+D:\Артема\YT\Экспорт Word DGV\MyApp\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+D:\Артема\YT\Экспорт Word DGV\MyApp\MyApp\obj\Debug\MyApp.csproj.CopyComplete
+D:\Артема\YT\Экспорт Word DGV\MyApp\MyApp\obj\Debug\MyApp.exe
+D:\Артема\YT\Экспорт Word DGV\MyApp\MyApp\obj\Debug\MyApp.pdb

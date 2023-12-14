@@ -85,7 +85,14 @@ namespace WindowsFormsApp1
         //вызов
         private void button1_Click(object sender, EventArgs e)
         {
-          FillComboBox("select * from товары", "Стоимость товара", comboBox1);
+            //обычная загрузка
+            FillComboBox("select * from товары", "Стоимость товара", comboBox1);
+
+            //вариант с проверкой, загрузились-ли элементы
+            if(db.FillComboBox("select * from товары", "Стоимость товара", comboBox1) != null)
+            {
+                //успешно загружены элементы.
+            }
         }
     }
 }

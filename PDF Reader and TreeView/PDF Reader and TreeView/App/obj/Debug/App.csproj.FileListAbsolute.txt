@@ -1,0 +1,15 @@
+D:\Артема\YT\TreeView И pdfViewer\App\App\bin\Debug\App.exe.config
+D:\Артема\YT\TreeView И pdfViewer\App\App\bin\Debug\App.exe
+D:\Артема\YT\TreeView И pdfViewer\App\App\bin\Debug\App.pdb
+D:\Артема\YT\TreeView И pdfViewer\App\App\bin\Debug\Interop.AcroPDFLib.dll
+D:\Артема\YT\TreeView И pdfViewer\App\App\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Артема\YT\TreeView И pdfViewer\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+D:\Артема\YT\TreeView И pdfViewer\App\App\obj\Debug\Interop.AcroPDFLib.dll
+D:\Артема\YT\TreeView И pdfViewer\App\App\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Артема\YT\TreeView И pdfViewer\App\App\obj\Debug\App.csproj.ResolveComReference.cache
+D:\Артема\YT\TreeView И pdfViewer\App\App\obj\Debug\App.Form1.resources
+D:\Артема\YT\TreeView И pdfViewer\App\App\obj\Debug\App.Properties.Resources.resources
+D:\Артема\YT\TreeView И pdfViewer\App\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\Артема\YT\TreeView И pdfViewer\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\Артема\YT\TreeView И pdfViewer\App\App\obj\Debug\App.exe
+D:\Артема\YT\TreeView И pdfViewer\App\App\obj\Debug\App.pdb

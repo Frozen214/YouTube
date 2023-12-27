@@ -1,0 +1,16 @@
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\bin\Debug\myApp.exe.config
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\bin\Debug\myApp.exe
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\bin\Debug\myApp.pdb
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\bin\Debug\Guna.UI2.dll
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\obj\Debug\myApp.csproj.AssemblyReference.cache
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\obj\Debug\myApp.Form1.resources
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\obj\Debug\myApp.Properties.Resources.resources
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\obj\Debug\myApp.csproj.GenerateResource.cache
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\obj\Debug\myApp.csproj.CoreCompileInputs.cache
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\obj\Debug\myApp.csproj.CopyComplete
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\obj\Debug\myApp.exe
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\obj\Debug\myApp.pdb
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\bin\Debug\MaterialSkin.dll
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\bin\Debug\MetroFramework.Design.dll
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\bin\Debug\MetroFramework.dll
+D:\Артема\YT\RadioButton ans Switcher\myApp\myApp\bin\Debug\MetroFramework.Fonts.dll

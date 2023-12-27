@@ -15,6 +15,7 @@ namespace MyApp
         {
             return @"Data Source=USER-PC\SQLEXPRESS;Initial Catalog=CarShopTG;Integrated Security=True";
         }
+        //простой способ.
         public SqlDataAdapter queryExecute(string query)
         {
             try
@@ -35,7 +36,7 @@ namespace MyApp
             }
         }
 
-        //продвинутый способ. более гибкий по отлову ошибок.
+        //РЕКОМЕНДУЮ!! Способ #2. Продвинутый способ. более гибкий по отлову ошибок.
         public SqlDataAdapter Execute(string query)
         {
              try

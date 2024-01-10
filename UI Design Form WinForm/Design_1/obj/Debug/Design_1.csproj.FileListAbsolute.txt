@@ -1,0 +1,16 @@
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\bin\Debug\Design_1.exe.config
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\bin\Debug\Design_1.exe
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\bin\Debug\Design_1.pdb
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\bin\Debug\Guna.UI2.dll
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\obj\Debug\Design_1.csproj.AssemblyReference.cache
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\obj\Debug\Design_1.Properties.Resources.resources
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\obj\Debug\Design_1.csproj.GenerateResource.cache
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\obj\Debug\Design_1.csproj.CoreCompileInputs.cache
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\obj\Debug\Design_1.csproj.CopyComplete
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\obj\Debug\Design_1.exe
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\obj\Debug\Design_1.pdb
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\obj\Debug\Design_1.FormMain.resources
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\bin\Debug\FontAwesome.Sharp.dll
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\obj\Debug\Design_1.FormLK.resources
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\obj\Debug\Design_1.FormMusic.resources
+D:\Артема\YT\Design UI\Design #1\Design_1\Design_1\obj\Debug\Design_1.FormLoginReg.resources

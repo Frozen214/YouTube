@@ -1,0 +1,12 @@
+F:\Артема\YT\Purchase receipt\PurchaseReceiptAPP\PurchaseReceiptAPP\bin\Debug\PurchaseReceiptAPP.exe.config
+F:\Артема\YT\Purchase receipt\PurchaseReceiptAPP\PurchaseReceiptAPP\bin\Debug\PurchaseReceiptAPP.exe
+F:\Артема\YT\Purchase receipt\PurchaseReceiptAPP\PurchaseReceiptAPP\bin\Debug\PurchaseReceiptAPP.pdb
+F:\Артема\YT\Purchase receipt\PurchaseReceiptAPP\PurchaseReceiptAPP\obj\Debug\PurchaseReceiptAPP.csproj.AssemblyReference.cache
+F:\Артема\YT\Purchase receipt\PurchaseReceiptAPP\PurchaseReceiptAPP\obj\Debug\PurchaseReceiptAPP.Form1.resources
+F:\Артема\YT\Purchase receipt\PurchaseReceiptAPP\PurchaseReceiptAPP\obj\Debug\PurchaseReceiptAPP.Properties.Resources.resources
+F:\Артема\YT\Purchase receipt\PurchaseReceiptAPP\PurchaseReceiptAPP\obj\Debug\PurchaseReceiptAPP.csproj.GenerateResource.cache
+F:\Артема\YT\Purchase receipt\PurchaseReceiptAPP\PurchaseReceiptAPP\obj\Debug\PurchaseReceiptAPP.csproj.CoreCompileInputs.cache
+F:\Артема\YT\Purchase receipt\PurchaseReceiptAPP\PurchaseReceiptAPP\obj\Debug\PurchaseReceiptAPP.exe
+F:\Артема\YT\Purchase receipt\PurchaseReceiptAPP\PurchaseReceiptAPP\obj\Debug\PurchaseReceiptAPP.pdb
+F:\Артема\YT\Purchase receipt\PurchaseReceiptAPP\PurchaseReceiptAPP\bin\Debug\Guna.UI2.dll
+F:\Артема\YT\Purchase receipt\PurchaseReceiptAPP\PurchaseReceiptAPP\obj\Debug\PurchaseReceiptAPP.csproj.CopyComplete
